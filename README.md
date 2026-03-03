@@ -75,10 +75,8 @@ The final model provides a solid framework for estimating Falcon 9 landing succe
 
 ## Repository Structure  
 
-- `data/` – Raw and processed datasets  
+- `presentaion/` – Final Presentation file
 - `notebooks/` – Jupyter notebooks documenting each stage  
-- `scripts/` – Python scripts for processing and modeling  
-- `dash_app/` – Plotly Dash application code  
 - `README.md` – Project documentation  
 
 ---
